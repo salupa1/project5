@@ -1,0 +1,53 @@
+body {
+    background-color: #89c880;
+    font-family: "Trirong", serif;
+    margin: 5%;
+    padding: 5%;
+    padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+.iframe_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+iframe {
+    max-width: 100%;
+    max-height: 100%;
+ }
+
+h1 {
+    text-align: center;
+    font-family: "Audiowide", sans-serif;
+    color: rgb(29, 19, 221);
+    text-shadow: 0.05em 0.05em .1em lightslategray;
+}
+
+h2 {
+    text-align: left;
+    font-family: "Sofia", sans-serif;
+    color:  rgb(86, 86, 6);
+    text-shadow: 0.05em 0.05em .1em lightslategray;
+}
+
+section {
+    border: 5px solid rgb(232, 65, 129);
+    padding: 0%;
+    margin: 5%;
+    width: 100%;
+}
+
+p {
+    font-family: "Trirong", serif;
+    text-indent: 1em;
+}
+
+footer {
+    font-family: "Trirong", serif;
+    font-size: 15px;
+    text-align: center;
+    padding: 0%;
+    width: 100%;
+}
